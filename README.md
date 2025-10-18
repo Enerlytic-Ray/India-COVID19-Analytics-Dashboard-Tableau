@@ -89,9 +89,9 @@ The Tableau dashboard integrates **quantitative storytelling** and **data visual
 ### 5️⃣ Conclusion: Insights and Data-Driven Impact  
 This analysis demonstrates how **data storytelling converts public health records into actionable knowledge**.  
 The dashboard supports:  
-- **Policy insight generation** — highlighting vaccination coverage and testing disparities.  
-- **Data-driven monitoring** — enabling state and national performance benchmarking.  
-- **Public communication** — presenting complex datasets in an intuitive format.  
+- **Policy insight generation**: highlighting vaccination coverage and testing disparities.  
+- **Data-driven monitoring**: enabling state and national performance benchmarking.  
+- **Public communication**:presenting complex datasets in an intuitive format.  
 
 **Quantitative Impact:**  
 - 5+ key performance indicators visualized across 28 states.  
@@ -115,7 +115,7 @@ This work exemplifies how **data analytics, visualization, and domain context** 
 ---
 
 ## 📸 Dashboard Preview  
-![Covid-19 in India Dashboard](./Dashboard%201.png)
+Covid-19 In India Analytic Dashboard.png
 
 ---
 
