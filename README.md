@@ -125,6 +125,18 @@ This work exemplifies how **data analytics, visualization, and domain context** 
    ```bash
    git clone https://github.com/<your-username>/Covid19-India-Dashboard.git
 
+2. Open the Tableau workbook file (Covid19_India_Dashboard.twbx).
+
+3. Interact with the filters and explore:
+
+- State comparisons
+
+- Vaccination dose progress
+
+- Testing vs. cases correlation
+
+- Gender/Age demographic trends   
+
    ---
 
 ## 🔮 Future Work
