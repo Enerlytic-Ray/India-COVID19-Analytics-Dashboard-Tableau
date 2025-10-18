@@ -115,8 +115,7 @@ This work exemplifies how **data analytics, visualization, and domain context** 
 ---
   
 ## 📸 Dashboard Preview  
-![India COVID-19 Analytics Dashboard Tableau](./Covid-19_In_India_Analytic_Dashboard.png)
-
+![India COVID-19 Analytics Dashboard Tableau](./Covid-19%20In%20India%20Analytic%20Dashboard.png)
 
 ---
 
