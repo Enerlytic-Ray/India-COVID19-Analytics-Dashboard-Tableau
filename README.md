@@ -115,7 +115,6 @@ This work exemplifies how **data analytics, visualization, and domain context** 
 ---
 
 ## 📸 Dashboard Preview  
-
 Covid-19 In India Analytic Dashboard.png
 
 ---
