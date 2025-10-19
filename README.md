@@ -171,5 +171,5 @@ Data Analyst | Tableau Developer | Energy & Analytics Enthusiast
 🌍 Focused on turning complex data into actionable intelligence for social and industrial impact.
 
 🔗 LinkedIn
- | Tableau Public
+ | https://bit.ly/Covid_19_in_India_Analytic_Dashboard
  | Portfolio
