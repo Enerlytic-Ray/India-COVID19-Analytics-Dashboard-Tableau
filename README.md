@@ -5,7 +5,7 @@
 **Tool:** Tableau Desktop  
 **Framework:** PPDAC (Problem-Plan-Data-Analysis-Conclusion)  
 **Status:** Completed  
-**Live Dashboard:** https://public.tableau.com/app/profile/raymond.adejoro/viz/Covid-19InindiaDashboardAnalysis/Dashboard1  
+**Live Dashboard:**   
 
 ---
 
