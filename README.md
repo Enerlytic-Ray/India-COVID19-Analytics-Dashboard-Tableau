@@ -5,7 +5,7 @@
 **Tool:** Tableau Desktop  
 **Framework:** PPDAC (Problem-Plan-Data-Analysis-Conclusion)  
 **Status:** Completed  
-**Live Dashboard:** https://bit.ly/Covid_19_in_India_Analytic_Dashboard    
+**Live Dashboard:** <a href="https://bit.ly/Covid_19_in_India_Analytic_Dashboard">Tableau</a></li>    
 
 ---
 
@@ -170,6 +170,6 @@ Data Analyst | Tableau Developer | Energy & Analytics Enthusiast
 
 🌍 Focused on turning complex data into actionable intelligence for social and industrial impact.
 
-🔗 LinkedIn
- | https://bit.ly/Covid_19_in_India_Analytic_Dashboard
+🔗 <a href="https://www.linkedin.com/in/raymond-adejoro-52989b143">LinkedIn</a></li>
+ | <a href="https://bit.ly/Covid_19_in_India_Analytic_Dashboard">Tableau</a></li>
  | Portfolio
