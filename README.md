@@ -162,7 +162,7 @@ World Health Organization (WHO) COVID-19 Dashboard
 
 ---
 
-## 👨‍💻 About the Author
+## 👨‍💻 By
 
 Adejoro Raymond Olaotan
 Data Analyst | Tableau Developer | Energy & Analytics Enthusiast
