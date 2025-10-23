@@ -1,4 +1,5 @@
-# 📊 Covid-19 in India- Data Driven Dashboard Analysis  
+# 📊 Covid-19 in India- Data Driven Dashboard Analysis 
+## 👨‍💻 By Adejoro Raymond Olaotan
 
 **Author:** Adejoro Raymond Olaotan  
 **Role:** Data Analyst & Visualization Specialist  
